@@ -1,0 +1,30 @@
+{
+    "name": "My Favorite Songs",
+    "songs": [
+        {
+            "title": "Crossing Field",
+            "artist": "LISA",
+            "duration": 30
+        },
+        {
+            "title": "This Game",
+            "artist": "Konomi Suzuki",
+            "duration": 30
+        },
+        {
+            "title": "Bling-Bang-Bang-Born",
+            "artist": "Creepy Nuts",
+            "duration": 30
+        },
+        {
+            "title": "Otonoke",
+            "artist": "Creepy Nuts",
+            "duration": 30
+        },
+        {
+            "title": "Hikaru Nara",
+            "artist": "Goose House",
+            "duration": 30
+        }
+    ]
+}
