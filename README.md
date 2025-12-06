@@ -1,5 +1,7 @@
 # Playlist Manager
 
+![2025-12-06 22-08-41](https://github.com/user-attachments/assets/2129e898-9c60-492b-b4c3-575de09e60c8)
+
 A simple PHP-based music playlist management application built with object-oriented programming principles. This project demonstrates core OOP concepts including encapsulation, class relationships, and MVC architecture pattern.
 
 ## Features
