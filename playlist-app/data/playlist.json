@@ -2,11 +2,6 @@
     "name": "My Favorite Songs",
     "songs": [
         {
-            "title": "Crossing Field",
-            "artist": "LISA",
-            "duration": 30
-        },
-        {
             "title": "This Game",
             "artist": "Konomi Suzuki",
             "duration": 30
